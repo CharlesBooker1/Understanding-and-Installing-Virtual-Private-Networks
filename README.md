@@ -3,7 +3,7 @@
 </p>
 
 <h1 align = "center">Understanding and Installing Virtual Private Networks</h1>
-A Virtual Private Network is a service that securely links two computers (or networks) together accross an insecure network such as the Internet, allowing them to send encapsulated and encrypted data to each other. This tutorial shows how to install a VPN through Microsoft Azure.
+A Virtual Private Network is a service that securely links two computers (or networks) together accross an unsecure network such as the Internet, allowing them to send encapsulated and encrypted data to each other. This tutorial shows how to install a VPN through Microsoft Azure.
 <p>
 <br />
 <h2>Environments and Technologies Used</h2>
